@@ -3,7 +3,7 @@
 ## Como baixar o projeto
 
 ```bash
-git clone https://github.com/mathcast/cameraFront.git
+git clone https://github.com/mathcast/LAB-P1-01.git
 cd LAB-P1-01
 ```
 
